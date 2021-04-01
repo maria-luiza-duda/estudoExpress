@@ -1,0 +1,8 @@
+GET: Buscar informações do back-end
+POST: Criar uma nova informação no back-end
+PUT/PATCH: Alterar uma informação no back-end
+DELETE: Deletar informações do backend
+
+Query Params: Vamos usar para filtros e paginação
+Route Params: Identificar recursos na hora de atualizar ou deletar
+Request Body:
